@@ -1,9 +1,9 @@
 Name:                taskpuppy
 Version:             0.1
-Synopsis:            Project Synopsis Here
-Description:         Project Description Here
-License:             AllRightsReserved
-Author:              Author
+Synopsis:            A Simple and Easy Issue Tracker
+Description:         A web-based issue tracker with minimal features and a polished UI.
+License:             GPL
+Author:              I.G. Reilly
 Maintainer:          maintainer@example.com
 Stability:           Experimental
 Category:            Web
